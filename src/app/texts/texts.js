@@ -26,7 +26,7 @@ const textos = {
             p1: "",
             p2: slogan,
         },
-        address: "Dirección del negocio",
+        address: "",
         phone: numeroWhatsApp,
         email: email,
         facebook: "https://www.facebook.com/share/1MJZ7r8n69zW8Dzf/?mibextid=qi2Omg",
